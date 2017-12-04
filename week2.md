@@ -77,3 +77,27 @@ for day in days:
 for i in range(days.len()-1):
     print(moods[i] '. its ' + days[i])
 ```
+
+## break and continue
+
+`break` breaks out of the current loop </br>
+
+whereas `continue` disregards the code flow that follows current iteration and continues with the loop
+
+``` python
+distances = ['here', 'there', 'sky', 'at moon', 'inifinity and beyond']
+
+def skyIsTheLimit:
+  for distance in distances:
+    print('i\'m ' + distance)
+    if distance == 'sky':
+      print('sky is my limit')
+      break
+
+def skipMoon:
+  for distance in distances:
+    if distance == 'at moon':
+      continue
+    print('i\'m ' + distance)
+
+```
