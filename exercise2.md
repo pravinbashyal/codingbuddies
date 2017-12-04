@@ -10,3 +10,5 @@
   *
  ***  height 3
 *****
+
+- ask user for input number that is divisible by 13, and keep asking until they provide a number that is a multiple of 13. if not print, 'invalid number' and prompt for input again
