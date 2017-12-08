@@ -101,3 +101,18 @@ def skipMoon:
     print('i\'m ' + distance)
 
 ```
+
+## tuples
+
+- like lists but immutable
+```python
+tuppleWare = ('some', 'random', 'collection')
+```
+
+## functions
+
+```python
+def functionName(arguments):
+  # do function stuffs
+  # return or not return
+```
