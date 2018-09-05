@@ -4,4 +4,5 @@
 
 hints: https://stackoverflow.com/questions/4432208/how-does-work-in-python
 
-[Input Field Resource] (https://www.python-kurs.eu/python3_eingabe.php)
+[Input Field Resource(English)](https://pythonbasics.org/keyboard-input/)
+
