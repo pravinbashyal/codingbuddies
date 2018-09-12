@@ -17,5 +17,5 @@ opponentMove  = possibilities[index]
 
 ## resources:
 
-String Manipulation: https://www.pythonforbeginners.com/basics/string-manipulation-in-python
-Arrays: https://www.programiz.com/python-programming/array
+- String Manipulation: https://www.pythonforbeginners.com/basics/string-manipulation-in-python
+- Arrays: https://www.programiz.com/python-programming/array
