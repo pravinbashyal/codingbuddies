@@ -1,18 +1,21 @@
 # Exercise (week 2)
 
-- write a program to print a one sided * pyramid of `n` height
-```
-*
-**   * pyramid of height 4
-***
-****
-```
+write a rock paper scissor program which:
+- prompts for user to choose from three options as numbers(1, 2, 3)
+- compare it with random move of opponent from code below
+- and says 'you won' or 'you lost' based on his input.
+- also print opponent's choice as why you lost or won.
 
-- write a program to print a two sided * pyramid of `n` height with odd number of `*` in each level
-```
-  *
- ***  height 3
-*****
-```
+    ```python
+from random import randint # we are using something from a package
+possibilities = ['rock', 'paper', 'scissor'] # this is an array of three strings
+index = randint(0, 2) # generates a random number from 0 to 3
+opponentMove  = possibilities[index]
 
-- ask user for input number that is divisible by 13, and keep asking until they provide a number that is a multiple of 13. if not print, 'invalid number' and prompt for input again
+# your code here
+    ```
+
+## resources:
+
+String Manipulation: https://www.pythonforbeginners.com/basics/string-manipulation-in-python
+Arrays: https://www.programiz.com/python-programming/array
