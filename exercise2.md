@@ -6,14 +6,14 @@ write a rock paper scissor program which:
 - and says 'you won' or 'you lost' based on his input.
 - also print opponent's choice as why you lost or won.
 
-    ```python
+```python
 from random import randint # we are using something from a package
 possibilities = ['rock', 'paper', 'scissor'] # this is an array of three strings
 index = randint(0, 2) # generates a random number from 0 to 3
 opponentMove  = possibilities[index]
 
 # your code here
-    ```
+```
 
 ## resources:
 
