@@ -2,11 +2,11 @@
 
 ## rule of the game.
 - one player thinks of a number of certain number of digits.
-  - (eg for 4 digits number, he thought of 1234)
+  - (eg for 4 digits number, he thought of 6789)
 - the other player start guessing the number.
-  - (eg. other player guessed it is 2435)
+  - (eg. other player guessed it is 2687)
 - the first player then has to say how many digits in the guesses number where right and how many were in the correct position. 
-  - (so in the guessed number in above example, 3 digits were correct: 2, 4, and 3 and only 3 was in correct position. so the first player says: 3 correct digits, 1 correct position)
+  - (so in the guessed number in above example, 3 digits were correct: 6, 7, and 8 and only 8 was in correct position. so the first player says: 3 correct digits, 1 correct position)
 - second player retries the guess. and the process is repeated till the second player guesses the number correctly. the number of attempts is recorded and displayed as: 'You guessed the number in x guesses'
 
 
