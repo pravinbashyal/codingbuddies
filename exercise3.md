@@ -1,10 +1,13 @@
 # implement a game of digits:
 
 ## rule of the game.
-- one player thinks of a number of certain number of digits.(eg for 4 digits number, he thought of 1234)
-- the other player start guessing the number.(eg. other player guessed it id 2435)
-- the first player then has to say how many digits in the guesses number where right and how many were in the correct position. (so in the guessed number, 3 digits were correct: 2, 4, and 3 and only 3 was in correct position. so the first player says, he says: 3 correct digits, 1 correct position)
-- second player retries the guess. and the process is repeated till the second player guesses the number correctly. the number of attempts is recorded and displayed as: 'You guessed the number in 5 guesses'
+- one player thinks of a number of certain number of digits.
+  - (eg for 4 digits number, he thought of 1234)
+- the other player start guessing the number.
+  - (eg. other player guessed it is 2435)
+- the first player then has to say how many digits in the guesses number where right and how many were in the correct position. 
+  - (so in the guessed number in above example, 3 digits were correct: 2, 4, and 3 and only 3 was in correct position. so the first player says: 3 correct digits, 1 correct position)
+- second player retries the guess. and the process is repeated till the second player guesses the number correctly. the number of attempts is recorded and displayed as: 'You guessed the number in x guesses'
 
 
 here let the program itself be the first player and guesses the random number of 3 digits(000 - 999).
@@ -30,7 +33,7 @@ print(random_string[-1]) # prints a
 ```
 read the string manipulation article below for more knowledge.
 
-**BONUS: ** after your first iteration of successful implementation of the program, study the principle DRY(Dont Repeat Yourself) from the resource section below and try to refactor the repeated codes(if any) into a function.
+**BONUS:** after your first iteration of successful implementation of the program, study the principle DRY(Dont Repeat Yourself) from the resource section below and try to refactor the repeated codes(if any) into a function.
 
 
 
