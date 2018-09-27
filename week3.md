@@ -34,12 +34,13 @@ dictionaryLiterally = {
 ```python
 nicknames = {
   'Aegon': 'The conquerer',
-  'Vlad': 'The Impaler'
+  'Vlad': 'The Impaler',
+  'Pravin': 'The Victorious'
   }
 
 
 def shoutNickNames(name):
-  print('HEY!!! 'name + ' ' + nicknames[name], '. ssup!')
+  print('HEY!!!, 'name + ' ' + nicknames[name], '. ssup!')
 
 
 shoutNickNames('Aegon')
