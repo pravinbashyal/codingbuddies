@@ -46,8 +46,8 @@ Using code above, the library [Vocabulary](https://github.com/tasdikrahman/vocab
   - Pravin Bashyal
   ```
 
-Resources:
-You need to install pip to install the package `Vocabulary`
+# Resources:
+You need to install pip to install the package `Vocabulary`. <br/>
 To install pip:
 Read through this https://stackoverflow.com/questions/17271319/how-do-i-install-pip-on-macos-or-os-x
 
