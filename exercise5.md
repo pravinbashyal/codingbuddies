@@ -35,7 +35,7 @@ https://stackoverflow.com/questions/24652074/importerror-no-module-named-request
 ## Question 2
 
 Using code above, the library [Vocabulary](https://github.com/tasdikrahman/vocabulary) and your imagination 🌈, create a quote plagiarizer that:
-  - replaces all the words that are longer than 4 letters with the *first* synonym provided from the vocabulary library.
+  - replaces all the words that are longer than 4 letters with the **first** synonym provided from the vocabulary library.
   - gives following output:
 
   ```
