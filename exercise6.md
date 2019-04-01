@@ -1,4 +1,4 @@
-# Write a csv parser that parses the csv and returns corresponding dictionary for it.
+## 1. Write a csv parser that parses the csv and returns corresponding dictionary for it.
 
 for eg
 ```python
@@ -17,7 +17,7 @@ def csv_to_json(csv_string, delimitter): # above delimiter is ','. In some cases
     # your code here
     return json
 ```
-# use the code written above to parse the data from provided url
+## 2. use the code written above to parse the data from provided url
 
 ```python
 from urllib.request import urlopen
@@ -37,6 +37,7 @@ for line in dataResponse:
 stations = csv_to_json(data)
 ```
 
-# Above is data for stations in Germany
-# Now find the City with least and most number of stations respectively.
+## 3. Above is data for stations in Germany
+##  Now find the City with least and most number of stations respectively.
 
+### Bonus: Refactor the csv parser to a parser module and use it from a different file.
