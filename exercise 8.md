@@ -145,7 +145,7 @@ population = [
   parse_up_male_generation("Summer Smith") # prints
   Jerry Smith is father of Morty Smith Sr
   Leonard Smith is Father of Jerry Smith
-  Leonard Smith\'s father is not known
+  Leonard Smith's father is not known
   ```
 
   - write a function that parses up generation till the known root with respect to female generation.
@@ -153,7 +153,7 @@ population = [
   parse_up_male_generation("Summer Smith") # prints
   Beth Sanchez is mother of Summer Smith
   Diane Sanchez is mother of Beth Sanchez
-  Diane Sanchez\'s mother is not known
+  Diane Sanchez's mother is not known
   ```
 
   _Notice that some values are empty strings. consider those cases as unknown case and return primitive value of those structure: "" for strings, {} for dictionaries and [] for arrays_
