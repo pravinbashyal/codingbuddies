@@ -142,7 +142,8 @@ population = [
 
   - write a function that parses up generation till the known root with respect to male generation.
   ```python
-  parse_up_male_generation("Summer Smith") # prints
+  parse_up_male_generation("Summer Smith") 
+  # prints
   Jerry Smith is father of Morty Smith Sr
   Leonard Smith is Father of Jerry Smith
   Leonard Smith's father is not known
@@ -150,7 +151,8 @@ population = [
 
   - write a function that parses up generation till the known root with respect to female generation.
   ```python
-  parse_up_male_generation("Summer Smith") # prints
+  parse_up_male_generation("Summer Smith") 
+  # prints
   Beth Sanchez is mother of Summer Smith
   Diane Sanchez is mother of Beth Sanchez
   Diane Sanchez's mother is not known
