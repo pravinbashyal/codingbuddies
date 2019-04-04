@@ -1,4 +1,4 @@
-# Exercise (week 2)
+# Exercise
 
 write a rock paper scissor program which:
 - prompts for user to choose from three options as numbers(1, 2, 3)
