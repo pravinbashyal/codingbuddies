@@ -158,4 +158,4 @@ population = [
   Diane Sanchez's mother is not known
   ```
 
-  _Notice that some values are empty strings. consider those cases as unknown case and return primitive value of those structure: "" for strings, {} for dictionaries and [] for arrays_
+  _Notice that some values are empty strings. consider those cases as unknown case and return primitive value of those structure: `""` for strings, `{}` for dictionaries and `[]` for arrays_
